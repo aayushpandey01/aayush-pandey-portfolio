@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "Aayush Pandey",
+    "label": "Data Scientist | AI & ML Engineer",
+    "summary": "Hello, I'm Aayush Pandey, I have expertise in Data Science(DS), Artificial Intelligence (AI) and Machine Learning (ML). With a knack for data analysis, model building / training and pattern recognition, I specialize in leveraging AI and ML algorithms to extract insights and drive decision-making. My expertise extends to C++ & Python where I thrive on creating efficient and elegant solutions. A dedicated enthusiast of Data Structures & Algorithms, I enjoy tackling complex problems and optimizing code for peak performance. My commitment to continuous learning ensures I stay up-to-date with the latest industry trends and technologies, enabling me to deliver cutting-edge solutions. Let's connect and explore the limitless possibilities at the intersection of technology and creativity.",
+    "location": "Noida, Uttar Pradesh, India",
+    "email": "aayushpandey0001@gmail.com",
+    "phone": "",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/aayush-pandey-7bb434202"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/aayushpandey01"
+      }
+    ],
+    "titles": [
+      "Data Science",
+      "Machine Learning",
+      "Agentic AI",
+      "MCP",
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex",
+      "Vector Databases",
+      "LLM",
+      "Hugging Face Transformers",
+      "LLM Fine-tuning",
+      "Multi-Modal AI",
+      "MLflow",
+      "Gen AI"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Pentair",
+      "role": "Data Science Internship",
+      "dates": "April 2025 - November 2025 (8 months)",
+      "location": "Noida, Uttar Pradesh, India",
+      "bullets": [
+        "Automated SAP data ingestion using Python, streamlining data extraction for analytics workflows.",
+        "Built a RAG chatbot using LangChain, enabling contextual responses by combining vector-based document search with LLMs; supported multiple file formats and citation tracing.",
+        "Conducted water quality prediction using ML models with preprocessing, outlier handling, and class balancing, achieving high accuracy using PyTorch and scikit-learn.",
+        "Built a Multilingual Voice Transcriber & Translator chatbot, enabling real-time speech recognition and translation across multiple languages, fully offline and efficient.",
+        "Engineered a Pump Diagnosis RAG Chatbot integrating LangChain, vector databases, and LLMs to deliver context-aware fault insights, automate diagnostics, and optimize industrial pump maintenance through intelligent document retrieval and analysis."
+      ]
+    },
+    {
+      "company": "NATIONAL INSTITUTE OF ELECTRONICS & INFORMATION TECHNOLOGY (NIELIT)",
+      "role": "Artificial Intelligence Internship",
+      "dates": "June 2024 - August 2024 (3 months)",
+      "location": "Remote",
+      "bullets": [
+        "Engineered and optimized Machine Learning Algorithms, enhancing data analysis and predictive accuracy.",
+        "Processed and cleaned large datasets using Numpy, Pandas and Scikit-Learn, improving model efficiency by 20%.",
+        "Collaborated on AI-driven projects, integrating Tensorflow, OpenCV and Pytorch for advanced AI solutions.",
+        "Developed a classification model achieving 85% accuracy in real world datasets."
+      ]
+    },
+    {
+      "company": "Boston Consulting Group (BCG)",
+      "role": "Data Science Internship",
+      "dates": "March 2024 - April 2024 (2 months)",
+      "location": "Remote",
+      "bullets": [
+        "Conducted customer churn analysis, leveraging Python-based data analytics and visualization techniques.",
+        "Constructed and refined a Random Forest model, achieving 85% accuracy rate in churn prediction.",
+        "Utilized data preprocessing techniques such as feature engineering and missing value imputation to enhance model performance."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Live Attendance System",
+      "description": "The Live Attendance System is designed to streamline and automate the process of recording attendance in educational institutions, workplaces, and events. It leverages modern technologies to provide real-time tracking, secure data storage, and comprehensive reporting features.",
+      "stack": ["Python", "OpenCV", "NumPy", "Pandas", "Scikit-Learn", "K-Nearest Neighbors (KNN)"],
+      "link": "https://github.com/aayushpandey01/Live-Attendance-System"
+    },
+    {
+      "title": "Face and Hand Landmarks Detection",
+      "description": "In this project I use mediapipe python library to detect face and hand landmarks. I use a holistic model from mediapipe solutions to detect all the face and hand landmarks.",
+      "stack": ["Machine Learning", "Python", "Mediapipe", "OpenCV"],
+      "link": "https://github.com/aayushpandey01/Face-and-Hand-Landmarks-Detection-using-Python-Mediapipe-OpenCV"
+    },
+    {
+      "title": "Auto EDA Generator",
+      "description": "Auto EDA Report Generator is a data analysis tool that automatically performs exploratory data analysis on uploaded datasets. It generates dataset summaries, identifies missing values, produces statistical insights, and creates interactive visualizations to help users quickly understand their data.",
+      "stack": ["Python", "NumPy", "Matplotlib", "Seaborn", "Streamlit", "Pandas", "Gen AI"],
+      "link": "https://github.com/aayushpandey01/Auto-EDA-Generator"
+    },
+    {
+      "title": "Rainfall Prediction",
+      "description": "This project employs logistic regression to forecast rain based on historical weather data. Through feature preprocessing and engineering, the model achieves accurate classification. Visualization techniques provide insights, aiding decision-making in agriculture, disaster management, and urban planning.",
+      "stack": ["Machine Learning", "Linear Regression", "NumPy", "Pandas", "Matplotlib", "Seaborn"],
+      "link": "https://github.com/aayushpandey01/Rainfall-Prediction"
+    },
+    {
+      "title": "AI Study Assistant",
+      "description": "An AI-powered Study Assistant built using Generative AI and Retrieval Augmented Generation (RAG) to help students learn smarter. The system allows users to upload study material and instantly generate summaries, quizzes, flashcards, and accurate answers directly from their notes.",
+      "stack": ["Python", "Streamlit", "LangChain", "FLAN-T5 (HuggingFace)", "Sentence Transformers", "FAISS", "PyPDF"],
+      "link": ""
+    }
+  ],
+  "achievements": [
+    {
+      "metric": "20%",
+      "context": "Improvement in model efficiency through dataset processing and cleaning.",
+      "type": "Efficiency"
+    },
+    {
+      "metric": "85%",
+      "context": "Accuracy achieved in real-world datasets classification.",
+      "type": "Accuracy"
+    },
+    {
+      "metric": "85%",
+      "context": "Accuracy rate in customer churn prediction using Random Forest.",
+      "type": "Accuracy"
+    },
+    {
+      "metric": "High",
+      "context": "Accuracy achieved in water quality prediction using PyTorch.",
+      "type": "Accuracy"
+    }
+  ],
+  "skills": {
+    "Core": ["Data Science", "Machine Learning", "Artificial Intelligence", "Gen AI", "Agentic AI"],
+    "Tools & Frameworks": ["LangChain", "LangGraph", "LlamaIndex", "Vector Databases", "LLM", "Hugging Face Transformers", "LLM Fine-tuning", "Multi-Modal AI", "MLflow", "Tensorflow", "OpenCV", "Pytorch", "Numpy", "Pandas", "Scikit-Learn"],
+    "Languages": ["Python", "C++"],
+    "Specialized": ["Random Forest", "Gradient Boosting", "Data Structures & Algorithms", "SAP Data Ingestion", "RAG Chatbots", "Voice Transcriber", "Pump Diagnosis"]
+  },
+  "education": [
+    {
+      "institution": "Harcourt Butler Technical University",
+      "degree": "Bachelor of Technology - BTech, Electronics Engineering",
+      "dates": "August 2021 - June 2025"
+    }
+  ],
+  "certifications": [
+    "Supervised Machine Learning: Regression and Classification",
+    "Unsupervised Learning, Recommenders, Reinforcement Learning",
+    "Machine Learning Specialization",
+    "Advanced Learning Algorithms",
+    "Introduction to Cyber Security"
+  ],
+  "languages": [],
+  "extra": []
+}
